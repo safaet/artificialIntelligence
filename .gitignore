@@ -1,3 +1,4 @@
 # Ignore virtual environment folders
 /GenerativeAI/AI-Lesson-Planner/venv/
 /kaggle_competitions/myenv/
+/GenerativeAI/ChatWithData/venv/
