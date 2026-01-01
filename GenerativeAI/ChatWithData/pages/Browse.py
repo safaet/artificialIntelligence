@@ -61,3 +61,4 @@ if documents:
                 st.write(f"**Words:** {len(content.split())} words")
 else:
     st.info("No documents found matching your criteria.")
+
